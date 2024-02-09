@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MenuMaker_Calculator/1.0.0": {
+        "runtime": {
+          "MenuMaker_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MenuMaker_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
