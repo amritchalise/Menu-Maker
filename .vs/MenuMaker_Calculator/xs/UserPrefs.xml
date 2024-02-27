@@ -1,4 +1,7 @@
-﻿<Properties StartupConfiguration="{B23F670D-FADD-4315-9F5C-9DD21AF70BD5}|https">
+﻿<Properties StartupConfiguration="{288DF522-2264-4EFB-9E18-C5DF3FF2D829}|https" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MenuMaker__Calculator PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="MenuMaker_Calculator/Views/Home/Index.cshtml" Line="131" Column="46" />
@@ -32,10 +35,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.MenuMaker__Calculator PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.MenuMaker__To-Do__App PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

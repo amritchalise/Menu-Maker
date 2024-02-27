@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1704.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuMaker_Calculator", "MenuMaker_Calculator\MenuMaker_Calculator.csproj", "{B23F670D-FADD-4315-9F5C-9DD21AF70BD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuMaker_To-Do_App", "MenuMaker_To-Do_App\MenuMaker_To-Do_App.csproj", "{288DF522-2264-4EFB-9E18-C5DF3FF2D829}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B23F670D-FADD-4315-9F5C-9DD21AF70BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B23F670D-FADD-4315-9F5C-9DD21AF70BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B23F670D-FADD-4315-9F5C-9DD21AF70BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288DF522-2264-4EFB-9E18-C5DF3FF2D829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288DF522-2264-4EFB-9E18-C5DF3FF2D829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288DF522-2264-4EFB-9E18-C5DF3FF2D829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288DF522-2264-4EFB-9E18-C5DF3FF2D829}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

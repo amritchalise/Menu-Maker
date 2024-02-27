@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/MenuMaker_To-Do_App.props" />
+</Project>

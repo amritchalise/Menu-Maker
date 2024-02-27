@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MenuMaker_To-Do_App/1.0.0": {
+        "runtime": {
+          "MenuMaker_To-Do_App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MenuMaker_To-Do_App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

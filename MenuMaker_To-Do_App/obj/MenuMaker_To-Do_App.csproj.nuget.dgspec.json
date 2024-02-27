@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/amritchalise/Projects/Menu-Maker/MenuMaker_To-Do_App/MenuMaker_To-Do_App.csproj": {}
+  },
+  "projects": {
+    "/Users/amritchalise/Projects/Menu-Maker/MenuMaker_To-Do_App/MenuMaker_To-Do_App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/amritchalise/Projects/Menu-Maker/MenuMaker_To-Do_App/MenuMaker_To-Do_App.csproj",
+        "projectName": "MenuMaker_To-Do_App",
+        "projectPath": "/Users/amritchalise/Projects/Menu-Maker/MenuMaker_To-Do_App/MenuMaker_To-Do_App.csproj",
+        "packagesPath": "/Users/amritchalise/.nuget/packages/",
+        "outputPath": "/Users/amritchalise/Projects/Menu-Maker/MenuMaker_To-Do_App/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/amritchalise/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
