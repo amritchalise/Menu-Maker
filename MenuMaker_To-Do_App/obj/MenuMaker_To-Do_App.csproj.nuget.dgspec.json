@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/amritchalise/Menu-Maker/MenuMaker_To-Do_App/MenuMaker_To-Do_App.csproj": {}
+    "/Users/amritchalise/Menu-Maker-1/MenuMaker_To-Do_App/MenuMaker_To-Do_App.csproj": {}
   },
   "projects": {
-    "/Users/amritchalise/Menu-Maker/MenuMaker_To-Do_App/MenuMaker_To-Do_App.csproj": {
+    "/Users/amritchalise/Menu-Maker-1/MenuMaker_To-Do_App/MenuMaker_To-Do_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/amritchalise/Menu-Maker/MenuMaker_To-Do_App/MenuMaker_To-Do_App.csproj",
+        "projectUniqueName": "/Users/amritchalise/Menu-Maker-1/MenuMaker_To-Do_App/MenuMaker_To-Do_App.csproj",
         "projectName": "MenuMaker_To-Do_App",
-        "projectPath": "/Users/amritchalise/Menu-Maker/MenuMaker_To-Do_App/MenuMaker_To-Do_App.csproj",
+        "projectPath": "/Users/amritchalise/Menu-Maker-1/MenuMaker_To-Do_App/MenuMaker_To-Do_App.csproj",
         "packagesPath": "/Users/amritchalise/.nuget/packages/",
-        "outputPath": "/Users/amritchalise/Menu-Maker/MenuMaker_To-Do_App/obj/",
+        "outputPath": "/Users/amritchalise/Menu-Maker-1/MenuMaker_To-Do_App/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/amritchalise/.nuget/NuGet/NuGet.Config"

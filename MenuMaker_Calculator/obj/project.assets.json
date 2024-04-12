@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amritchalise/Menu-Maker/MenuMaker_Calculator/MenuMaker_Calculator.csproj",
+      "projectUniqueName": "/Users/amritchalise/Menu-Maker-1/MenuMaker_Calculator/MenuMaker_Calculator.csproj",
       "projectName": "MenuMaker_Calculator",
-      "projectPath": "/Users/amritchalise/Menu-Maker/MenuMaker_Calculator/MenuMaker_Calculator.csproj",
+      "projectPath": "/Users/amritchalise/Menu-Maker-1/MenuMaker_Calculator/MenuMaker_Calculator.csproj",
       "packagesPath": "/Users/amritchalise/.nuget/packages/",
-      "outputPath": "/Users/amritchalise/Menu-Maker/MenuMaker_Calculator/obj/",
+      "outputPath": "/Users/amritchalise/Menu-Maker-1/MenuMaker_Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/amritchalise/.nuget/NuGet/NuGet.Config"
